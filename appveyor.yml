@@ -1,0 +1,24 @@
+image: Visual Studio 2017
+skip_tags: true
+branches:
+  only:
+    - master
+build_script:
+  - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Items\
+  - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Mugshots\
+  - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Spells\
+  - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Sprites\
+  - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Status\
+  - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Tiles\
+  - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Updater\
+artifacts:
+  - path: GFX.zip
+    name: GFX
+deploy:
+  release: v$(appveyor_build_version)
+  description: 'Release'
+  provider: GitHub
+  auth_token: $(github_release_token)
+  artifact: GFX
+  draft: false
+  prerelease: false
