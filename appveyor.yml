@@ -15,6 +15,7 @@ build_script:
   - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Emoji\
   - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Fly\
   - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Maps\
+  - 7z a GFX.zip %APPVEYOR_BUILD_FOLDER%\Mail\
 artifacts:
   - path: GFX.zip
     name: GFX
