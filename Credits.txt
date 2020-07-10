@@ -47,7 +47,7 @@ https://www.deviantart.com/zlolxd
 -SPRITES BY USER-
 Asagiri- Alolan ninetails
 
-Soulja- Rotom, Serperior, Emboar, Simisage, Roggenrola, Boldore, Gigalith, Swoobat, Timburr, Gurdurr, Conkeldurr, Tympole, Palpitoad, Seismitoad, Throh, Sawk, Scolipede, Sandile, Krokorok, Krookodile, Darmanitan, Scraggy, Scrafty, Tirtouga, Garbodor, Solosis, Duosion, Reuniclus, Escavalier, Ferroseed, Ferrothorn, Klink, Klang, Klinklang, Eelektross, Elgyem, Beheeyem, Chandelure, Axew, Fracture, Haxorus, Shelmet, Accelgor, Mienfoo, Mienshao, Golett, Golurk, Pawniard, Bisharp, Rufflet, Braviary, Heatmor, Durant, Hydreigon, Larvesta, Terrakion, Kyurem, Froakie, Pangoro, Malamar, Binacle, Barbaracle, Skrelp, Dragalage, Heliolisk, Goomy, Avalugg, Zygarde, Diancie, Hoopa, Incineroar, Grubbin, Vikavolt, Crabrawler, Crabominable, Toxapex, Cutiefly, Araquanid, Lurantis, Salandit, Salazzle, Tsareena, Wimpod, Golisopod, Turtonator, Hakamo-o, Kommo-o, Buzzwole, Pheromosa, Xurkitree, Kartana, Guzzlord
+Soulja- Rotom, Serperior, Emboar, Simisage, Roggenrola, Boldore, Gigalith, Swoobat, Timburr, Gurdurr, Conkeldurr, Tympole, Palpitoad, Seismitoad, Throh, Sawk, Scolipede, Sandile, Krokorok, Krookodile, Darmanitan, Scraggy, Scrafty, Tirtouga, Garbodor, Solosis, Duosion, Reuniclus, Escavalier, Ferroseed, Ferrothorn, Klink, Klang, Klinklang, Eelektross, Elgyem, Beheeyem, Chandelure, Axew, Fracture, Haxorus, Shelmet, Accelgor, Mienfoo, Mienshao, Golett, Golurk, Pawniard, Bisharp, Rufflet, Braviary, Heatmor, Durant, Hydreigon, Larvesta, Terrakion, Kyurem, Froakie, Pangoro, Malamar, Binacle, Barbaracle, Skrelp, Dragalage, Heliolisk, Goomy, Avalugg, Zygarde, Diancie, Hoopa, Incineroar, Grubbin, Vikavolt, Crabrawler, Crabominable, Toxapex, Cutiefly, Araquanid, Lurantis, Salandit, Salazzle, Tsareena, Wimpod, Golisopod, Turtonator, Hakamo-o, Kommo-o, Buzzwole, Pheromosa, Xurkitree, Kartana, Guzzlord, Applin, Flapple, Appletun, Toxel, Toxtricity, Sizzlipede, Centiskorch, Dreepy, Drakloak, Dragapult
 
 Raiden- Patrat, Herdier, Braixen, Delphox, Frogadier, Greninja
 
@@ -59,7 +59,12 @@ Katedoggo- Rockruff
 
 RichardG- Sandygast, Palossand, Dhelmise
 
-Zango- Rowlet, Dartrix, Decidueye, Sawsbuck, Alolan Raichu, Alolan Exeggutor
+Zango- Rowlet, Dartrix, Decidueye, Sawsbuck, Alolan Raichu, Alolan Exeggutor, Galarian Corsola
+
+
+-MUGSHOTS-
+EzerArt- Galarian Corsola, Rolycoly, Carkol, Coalossal
+
 
 -EMOJI-
 Twemoji by Twitter (CC-BY 4.0)
@@ -71,6 +76,7 @@ https://forums.rpgmakerweb.com/index.php?threads/avys-icon-workshop-new-wind-ico
 
 (Counter-Clockwise) 
 ccw.blog.shinobi.jp/Category/2/
+
 
 -ITEMS BY USER-
 Cosmo, Raiden, Analytic
