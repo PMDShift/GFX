@@ -1,28 +1,24 @@
 -TILES-
+
 Beehive set
 https://opengameart.org/users/g-brothers
 
-Arcanine hut and Drifblim balloon
-https://www.deviantart.com/geoisevil
-
-Police station, Bank, Food trucks, Daycare
-https://www.deviantart.com/pkmnalexandrite
-
-Bar
-https://www.deviantart.com/pixelpioneer/art/Run-Down-Bar-and-Apartment-547197182
-
-Lights
-https://www.deviantart.com/hishimy/art/RPG-Maker-VX-Ace-tilesets-4-decorations-tilesets-529208240
 
 Jungle tileset
 http://rmrk.net/index.php?topic=41646.0
 
-Treehouse
-https://www.deviantart.com/sailorvicious/art/Fortree-City-Tileset-188588427
 
 Assorted tiles
 http://yms.main.jp/dotartworld/index.html
-https://fanart.pokefans.net/tutorials/mapping/tilesets
+https://www.deviantart.com/geoisevil
+https://www.deviantart.com/magiscarf
+https://www.deviantart.com/malice936
+https://www.deviantart.com/princess-phoenix
+https://www.deviantart.com/kingtapir
+https://www.deviantart.com/nicnubill
+https://www.deviantart.com/slawter666
+https://www.deviantart.com/pkmnalexandrite
+
 
 Floors
 https://opengameart.org/content/floor-tiles
@@ -30,23 +26,22 @@ https://opengameart.org/content/floor-tiles
 All credits for set 12 can be found at:
 https://fanart.pokefans.net/tutorials/mapping/tilesets
 https://fanart.pokefans.net/tilesets/?
-Draco obscurus, U-Seigel, Alistair, WesleyFG, Emo-Li, Struppi 
+Draco obscurus, U-Seigel, Alistair, WesleyFG, Emo-Li, Struppi, zetavares852
 
 
 Misc.
-https://www.deviantart.com/zetavares852/journal/Credit-s-Section-227900990
-https://www.deviantart.com/magiscarf/gallery/41257023/tiles-and-mockups
-https://www.deviantart.com/derlo/art/Biblioteca-557401000
+https://www.deviantart.com/sailorvicious/art/Fortree-City-Tileset-188588427
 https://www.deviantart.com/pureazuure/art/2013-tileset-compilation-623849877
-https://www.deviantart.com/princess-phoenix/art/Fossil-Museum-Tileset-780178878
-https://www.deviantart.com/kingtapir/art/Alola-Tile-Dump-1-6-Revamped-850428198
-https://www.deviantart.com/slawter666/art/Pixel-Ice-Sanctuary-731270222
-https://www.deviantart.com/malice936/art/kanto-pokemon-eggs-incomplete-305442713
-https://www.deviantart.com/alucus/art/Le-Krusty-crab-tiles-329300913
-https://www.deviantart.com/spritemight/art/Candy-Land-Set-01-375163812
-https://www.deviantart.com/schwarzenacht/art/Autum-Set-504152016
-https://www.deviantart.com/lightbulb15/art/Pokemon-DPPtHGSS-Tileset-265902852
-https://www.deviantart.com/princess-phoenix/art/A-Burrow-782306863
+https://www.deviantart.com/derlo/art/Biblioteca-557401000
+https://www.deviantart.com/erma96/art/Erma-s-tiles-collab-1-156378253
+https://www.deviantart.com/michaking/art/Tile-Pokemon-day-care-743848348
+https://www.deviantart.com/hek-el-grande/art/New-pallete-3-281976788
+https://www.deviantart.com/pablus94/art/Comerciante-753199154
+https://www.deviantart.com/wilsonscarloxy/art/S-O-T-Old-Statues-194474716
+https://www.deviantart.com/raymondmaverick/art/Rock-House-842500222
+https://www.deviantart.com/lapampa-fr/art/Cresselia-sanctuary-453250502
+https://www.deviantart.com/ulithiumdragon/art/Sprite-Poke-Dedenne-Slide-Custom-Tile-697404039
+https://www.deviantart.com/hishimy/art/RPG-Maker-VX-Ace-tilesets-4-decorations-tilesets-529208240
 
 
 
