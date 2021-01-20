@@ -1,8 +1,5 @@
 -TILES-
 
-Beehive set
-https://opengameart.org/users/g-brothers
-
 
 Jungle tileset
 http://rmrk.net/index.php?topic=41646.0
@@ -18,10 +15,10 @@ https://www.deviantart.com/kingtapir
 https://www.deviantart.com/nicnubill
 https://www.deviantart.com/slawter666
 https://www.deviantart.com/pkmnalexandrite
+https://www.deviantart.com/alucus
+https://www.deviantart.com/erma96
 
 
-Floors
-https://opengameart.org/content/floor-tiles
 
 All credits for set 12 can be found at:
 https://fanart.pokefans.net/tutorials/mapping/tilesets
@@ -30,10 +27,12 @@ Draco obscurus, U-Seigel, Alistair, WesleyFG, Emo-Li, Struppi, zetavares852
 
 
 Misc.
+https://opengameart.org/users/g-brothers
+https://opengameart.org/content/bone-planet
+https://opengameart.org/content/floor-tiles
 https://www.deviantart.com/sailorvicious/art/Fortree-City-Tileset-188588427
 https://www.deviantart.com/pureazuure/art/2013-tileset-compilation-623849877
 https://www.deviantart.com/derlo/art/Biblioteca-557401000
-https://www.deviantart.com/erma96/art/Erma-s-tiles-collab-1-156378253
 https://www.deviantart.com/michaking/art/Tile-Pokemon-day-care-743848348
 https://www.deviantart.com/hek-el-grande/art/New-pallete-3-281976788
 https://www.deviantart.com/pablus94/art/Comerciante-753199154
