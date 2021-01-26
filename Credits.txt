@@ -1,31 +1,46 @@
 -TILES-
-Beehive set
-https://opengameart.org/users/g-brothers
 
-Arcanine hut and Drifblim balloon
-https://www.deviantart.com/geoisevil
-
-Police station, Bank, Food trucks, Daycare
-https://www.deviantart.com/pkmnalexandrite
-
-Bar
-https://www.deviantart.com/pixelpioneer/art/Run-Down-Bar-and-Apartment-547197182
-
-Lights
-https://www.deviantart.com/hishimy/art/RPG-Maker-VX-Ace-tilesets-4-decorations-tilesets-529208240
 
 Jungle tileset
 http://rmrk.net/index.php?topic=41646.0
 
-Treehouse
-https://www.deviantart.com/sailorvicious/art/Fortree-City-Tileset-188588427
 
 Assorted tiles
 http://yms.main.jp/dotartworld/index.html
-https://fanart.pokefans.net/tutorials/mapping/tilesets
+https://www.deviantart.com/geoisevil
+https://www.deviantart.com/magiscarf
+https://www.deviantart.com/malice936
+https://www.deviantart.com/princess-phoenix
+https://www.deviantart.com/kingtapir
+https://www.deviantart.com/nicnubill
+https://www.deviantart.com/slawter666
+https://www.deviantart.com/pkmnalexandrite
+https://www.deviantart.com/alucus
+https://www.deviantart.com/erma96
 
-Floors
+
+
+All credits for set 12 can be found at:
+https://fanart.pokefans.net/tutorials/mapping/tilesets
+https://fanart.pokefans.net/tilesets/?
+Draco obscurus, U-Seigel, Alistair, WesleyFG, Emo-Li, Struppi, zetavares852
+
+
+Misc.
+https://opengameart.org/users/g-brothers
+https://opengameart.org/content/bone-planet
 https://opengameart.org/content/floor-tiles
+https://www.deviantart.com/sailorvicious/art/Fortree-City-Tileset-188588427
+https://www.deviantart.com/pureazuure/art/2013-tileset-compilation-623849877
+https://www.deviantart.com/derlo/art/Biblioteca-557401000
+https://www.deviantart.com/michaking/art/Tile-Pokemon-day-care-743848348
+https://www.deviantart.com/hek-el-grande/art/New-pallete-3-281976788
+https://www.deviantart.com/pablus94/art/Comerciante-753199154
+https://www.deviantart.com/wilsonscarloxy/art/S-O-T-Old-Statues-194474716
+https://www.deviantart.com/raymondmaverick/art/Rock-House-842500222
+https://www.deviantart.com/lapampa-fr/art/Cresselia-sanctuary-453250502
+https://www.deviantart.com/ulithiumdragon/art/Sprite-Poke-Dedenne-Slide-Custom-Tile-697404039
+https://www.deviantart.com/hishimy/art/RPG-Maker-VX-Ace-tilesets-4-decorations-tilesets-529208240
 
 
 
